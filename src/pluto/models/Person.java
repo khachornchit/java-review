@@ -86,4 +86,8 @@ public class Person {
 		System.out.println(this.formatPerson());
 	}
 
+	public void printFirstName() {
+		System.out.println(this.firstName);
+	}
+
 }

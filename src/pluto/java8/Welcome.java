@@ -1,13 +1,13 @@
 package pluto.java8;
 
-import pluto.features.ICore;
+import pluto.features.IPerform;
 
 /**
  * 
  * @author pluto
  *
  */
-public class Welcome implements ICore {
+public class Welcome implements IPerform {
 
 	@Override
 	public void perform() {

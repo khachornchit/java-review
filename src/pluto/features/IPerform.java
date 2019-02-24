@@ -6,7 +6,7 @@ package pluto.features;
  *
  */
 @FunctionalInterface
-public interface ICore {
+public interface IPerform {
 	/**
 	 * 
 	 */

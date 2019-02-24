@@ -1,6 +1,6 @@
 package pluto.java8;
 
-import pluto.features.ICore;
+import pluto.features.IPerform;
 
 /**
  * 
@@ -13,7 +13,7 @@ public class Hello {
 	 * 
 	 * @param pluto
 	 */
-	public void greet(ICore pluto) {
+	public void greet(IPerform pluto) {
 		pluto.perform();
 	}
 
@@ -24,9 +24,9 @@ public class Hello {
 	public static void main(String[] args) {
 		Hello greeting = new Hello();
 		
-		ICore lambdaFunction = () -> System.out.println("Lambda expression");
+		IPerform lambdaFunction = () -> System.out.println("Lambda expression");
 		
-		ICore inlineCore = new ICore() {
+		IPerform inlineCore = new IPerform() {
 			
 			@Override
 			public void perform() {
