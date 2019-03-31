@@ -1,4 +1,4 @@
-# Java 8
+# Java 8 Review
 `Pluto Solutions research and develop with Java EE and Java 8. This repository is to review Java8 using lambdas, functional interfaces, method references and collections, collections improvements and how come the benefit of using lambda such as enables functional programming, readable and concise code, easier to use APIs and libraries, enables support for parallel processing.`
 
 ## Use Lambdas
