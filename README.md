@@ -1,3 +1,5 @@
+# About
+My core development are back-end, front-end, and test automation using Java, J2EE, Spring Boot, JPA, Hibernate, JavaScript, Node.js, PHP, Selenium, and SOAPUI.
 
 # Java 8 Review
 This is an Java8 review using lambdas, functional interfaces, method references and collections, collections improvements and how come the benefit of using lambda such as enables functional programming, readable and concise code, easier to use APIs and libraries, enables support for parallel processing.
