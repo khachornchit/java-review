@@ -6,6 +6,12 @@ Java 8 about using lambdas, functional interfaces, method references and collect
 * Functional Interfaces
 * Method References and Collections
 * Collections improvements
+* Closure
+* Exception
+* Iteration
+* Predicate
+* Stream
+* This reference
 	
 ## Lambda Benefit
 * Enables functional programming
