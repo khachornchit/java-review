@@ -1,8 +1,7 @@
 # Java 8
-Java 8 about using lambdas, functional interfaces, method references and collections, collections improvements and how come the benefit of using lambda such as enables functional programming, readable and concise code, easier to use APIs and libraries, enables support for parallel processing.
+Java 8 about using lambda, functional interfaces, method references and collections, collections improvements and how come the benefit of using lambda such as enables functional programming, readable and concise code, easier to use APIs and libraries, enables support for parallel processing.
 
-## Lambdas
-* Using lambdas
+* Using lambda
 * Functional Interfaces
 * Method References and Collections
 * Collections improvements
