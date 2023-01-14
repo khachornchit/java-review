@@ -5,10 +5,10 @@ Java 8 about using lambda, functional interfaces, method references and collecti
 * Functional Interfaces
 * Method References and Collections
 * Collections improvements
-* Closure
-* Exception
-* Iteration
-* Predicate
+* Java8Sample.Closure
+* Java8Sample.Exception
+* Java8Sample.Iteration
+* Java8Sample.Predicate
 * Stream
 * This reference
 	
