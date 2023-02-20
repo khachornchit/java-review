@@ -1,7 +1,0 @@
-package src.core.sample;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Java8Sample.Hello world!");
-    }
-}
