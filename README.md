@@ -1,4 +1,4 @@
-# Java 8 and Java Core Review
+# Java 8 and Java core Review
 
 ## Java 8 Review
 * Lambda expression − Adds functional processing capability to Java.
@@ -18,7 +18,7 @@
 * Easier to use APIs and libraries
 * Enables support for parallel processing
 
-## Java Core Review
+## Java core Review
 * Data Types
 * String concatenation
 * If, else, switch, and loop concept
