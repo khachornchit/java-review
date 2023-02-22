@@ -1,5 +1,0 @@
-package sample.features;
-
-public interface IProcess {
-	void process(int i);
-}
