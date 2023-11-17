@@ -2,17 +2,14 @@
 
 ## Core Java Review
 
-* Data Types
-* String concatenation
-* If, else, switch, and loop concept
-* Array concept
-* Static
-* String builder
-* String compare
-* Collection, Set, List
-* HashMap, LinkedHashMap
-* OOP
-* Generic
+This repository serves as a comprehensive review guide for core Java concepts, offering a structured overview of
+fundamental topics essential for Java development. It covers essential data types, string manipulation, conditional
+statements (if, else, switch), and looping constructs. Additionally, the repository delves into array usage, static
+keyword applications, string builder functionality, and techniques for string comparison. Core principles of
+collections, including Sets and Lists, are explained, followed by a detailed exploration of HashMaps and LinkedHashMaps.
+Object-oriented programming (OOP) principles are covered, emphasizing encapsulation, inheritance, and polymorphism. The
+repository concludes with a study of generics, providing a solid foundation for Java developers or those seeking a
+refresher on key language features.
 
 ## Java8 Review
 
